@@ -1,0 +1,3 @@
+*.txt
+git config --global user.email "raulmuniz08@gmail.com"
+git config --global user.name "Raul Souza Muniz"
